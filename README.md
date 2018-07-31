@@ -1,2 +1,2 @@
 # MarkdownPhotos
-Photos for Markdown
+This repository stores Photos for Markdown
